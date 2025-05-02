@@ -1,0 +1,24 @@
+
+h1{color:darkviolet;}
+
+h2{color:rgb(41, 134, 41); border:solid 5px rgb(41, 134, 41); margin:0 670px 0 670px;}
+
+h3{color:rgb(41, 134, 41); border:dashed 5px rgb(41, 134, 41);  margin-left:700px; margin-right:700px;}
+
+p{font-size:18px;font-weight: 200;}
+
+a2{color:coral;}
+
+a3{font-style:italic;}
+
+.red-element-italic{color:brown; font-style: italic;} 
+
+.IG{background-color:blueviolet; color:pink;}
+
+.TT{background-color:black;color:white;}
+
+.italic{font-style: italic;}  
+
+img{border:dotted 5px seagreen; padding:10px;}
+
+html{text-align: center; background-color:rgb(155, 215, 155);}
